@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SispedV4</string>
+    <string name="action_settings">Settings</string>
+    <string name="nome_usuario">Nome</string>
+    <string name="perfil_usuario">Perfil</string>
+    <string name="id_usuario">ID</string>
+    <string name="edit_Nome">Nome</string>
+    <string name="edit_tel">Tel/Cel</string>
+    <string name="edit_Login">Login</string>
+    <string name="edit_login">Login</string>
+    <string name="edit_Senha">Senha</string>
+    <string name="lblperfil">Perfil</string>
+    <string name="bntsalvar">Salvar</string>
+    <string name="btnexcluir">Excluir</string>
+    <string name="novoPerfil">Perfil atual:</string>
+    <string name="tipoperfil">perfil</string>
+    <string name="btnAlterar">Alterar</string>
+
+
+    <string-array name="perfil_usuario">
+        <item> administrador</item>
+        <item>usuario</item>
+    </string-array>
+</resources>
